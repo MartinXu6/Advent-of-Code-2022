@@ -1,3 +1,4 @@
+#this is really getting harder
 stacks = [["C", "S", "G", "B"],
           ["G", "V", "N", "J", "H", "W", "M", "T"],
           ["S", "Q", "M"],
